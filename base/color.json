@@ -427,8 +427,7 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "base",
-      "default"
+      "base"
     ]
   }
 }
