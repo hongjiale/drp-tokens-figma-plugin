@@ -420,7 +420,7 @@
     }
   },
   "default": {
-    "theme": {
+    "color": {
       "bg": {
         "warning": {
           "value": "$color.yellow.1",
@@ -458,6 +458,12 @@
         },
         "container-3": {
           "value": "$color.gray.2",
+          "type": "color"
+        }
+      },
+      "error": {
+        "hover": {
+          "value": "$color.red.5",
           "type": "color"
         }
       }
